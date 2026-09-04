@@ -1,0 +1,14 @@
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/bin/Debug/net10.0/Objek
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/bin/Debug/net10.0/Objek.deps.json
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/bin/Debug/net10.0/Objek.runtimeconfig.json
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/bin/Debug/net10.0/Objek.dll
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/bin/Debug/net10.0/Objek.pdb
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/Objek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/Objek.AssemblyInfoInputs.cache
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/Objek.AssemblyInfo.cs
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/Objek.csproj.CoreCompileInputs.cache
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/Objek.dll
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/refint/Objek.dll
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/Objek.pdb
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/Objek.genruntimeconfig.cache
+/Users/vova/Documents/Skolan/C#/Objektorientering/Objek/obj/Debug/net10.0/ref/Objek.dll
